@@ -1,18 +1,16 @@
-## Getting Started
+# Name of Project
+Snake Game
+## Table of Contents
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- [Overview](#overview)
+- [Built With](#built-with)
 
-## Folder Structure
+## Overview
 
-The workspace contains two folders by default, where:
+Basic snake game, dont hit the borders dont hit snakes own body and eat as much food as possible
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### Built With
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
